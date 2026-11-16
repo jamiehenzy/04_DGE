@@ -16,4 +16,6 @@ Complete DGE_assignment.md. Have a look at the other files in the repo for helpf
 
 #### Where to find RNAseq datasets to practice with
 
+[Bioconductor's explanation of the DESeq2 workflow](https://bioconductor.org/packages/devel/bioc/vignettes/DESeq2/inst/doc/DESeq2.html#theory-behind-deseq2)
+
 [Recount3](https://rna.recount.bio/)
